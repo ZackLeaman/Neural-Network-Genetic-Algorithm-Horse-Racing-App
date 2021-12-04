@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+canvas {
+  border-style: solid;
+  border-color: wheat;
+  border-width: 10px;
+}
+
+body {
+  background-color: rgb(37, 46, 26);
+  text-align: center;
+  margin: auto;
+}
+
+h1,
+label {
+  color: wheat;
+}
+
+.btn-success {
+  font-size: 12px;
+  width: 180px;
+  background-color: darkgreen;
+  fill: wheat;
+}
+
+.row,
+.col-lg-12,
+.col-lg-2 {
+  padding: 2px;
+  align-content: center;
+}
